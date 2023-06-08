@@ -3,7 +3,7 @@ var player, shooterImg, shooter_shooting;
 
 
 function preload(){
-  
+//   hello
   shooterImg = loadImage("assets/shooter_2.png")
   shooter_shooting = loadImage("assets/shooter_3.png")
 
